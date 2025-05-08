@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6522848c.chunk.css",
+    "main.js": "./static/js/main.bd063414.chunk.js",
+    "main.js.map": "./static/js/main.bd063414.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2b223c77.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2b223c77.js.map",
+    "static/css/2.d0524d40.chunk.css": "./static/css/2.d0524d40.chunk.css",
+    "static/js/2.a13aa6ab.chunk.js": "./static/js/2.a13aa6ab.chunk.js",
+    "static/js/2.a13aa6ab.chunk.js.map": "./static/js/2.a13aa6ab.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.d0524d40.chunk.css.map": "./static/css/2.d0524d40.chunk.css.map",
+    "static/css/main.6522848c.chunk.css.map": "./static/css/main.6522848c.chunk.css.map",
+    "static/js/2.a13aa6ab.chunk.js.LICENSE.txt": "./static/js/2.a13aa6ab.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "./static/media/DevOps-logo.a60ef5fe.svg",
+    "static/media/chrome.png": "./static/media/chrome.9ce3f663.png",
+    "static/media/primereact.min.css": "./static/media/line.39c65dcc.gif",
+    "static/media/edge.png": "./static/media/edge.234744f6.png",
+    "static/media/firefox.png": "./static/media/firefox.c0b1b845.png",
+    "static/media/ie.png": "./static/media/ie.45081dbb.png",
+    "static/media/info.png": "./static/media/info.937a5cfa.png",
+    "static/media/linux.jpg": "./static/media/linux.e07eabe0.jpg",
+    "static/media/mac_os_X.png": "./static/media/mac_os_X.f0e58960.png",
+    "static/media/theme.css": "./static/media/open-sans-v15-latin-regular.ec806460.woff2",
+    "static/media/opera.png": "./static/media/opera.d6426e2b.png",
+    "static/media/primeicons.css": "./static/media/primeicons.e61f3495.woff",
+    "static/media/redhat.jpg": "./static/media/redhat.6145a17d.jpg",
+    "static/media/index.css": "./static/media/roboto-latin-900italic.cb5ad999.woff2",
+    "static/media/safari.png": "./static/media/safari.0a898254.png",
+    "static/media/ubuntu.png": "./static/media/ubuntu.c9ecc927.png",
+    "static/media/windows10.jpg": "./static/media/windows10.a1e32b06.jpg",
+    "static/media/windows7.jpg": "./static/media/windows7.d78bd8c5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b223c77.js",
+    "static/css/2.d0524d40.chunk.css",
+    "static/js/2.a13aa6ab.chunk.js",
+    "static/css/main.6522848c.chunk.css",
+    "static/js/main.bd063414.chunk.js"
+  ]
+}
